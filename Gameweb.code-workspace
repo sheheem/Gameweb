@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\testweb"
+		},
+		{
+			"path": "..\\animateweb"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "testweb"
+	}
+}
